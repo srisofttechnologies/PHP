@@ -1,5 +1,5 @@
 <?php
-echo "Test";
+echo "Testskfhsdhfhsdhfhdsfsdfhsdhfdjkshfjksd";
 phpinfo();exit;
 function AddToBasketSession($cart_product_id, $Product_type, $product_arr) {
     if (!empty($product_arr)) {
